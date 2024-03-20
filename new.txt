@@ -13,5 +13,16 @@ once we have initialized we have a file in m y folder new.txt we need to push th
 
 and the repository  name is your folder name
 
+we need to click publish branch
+then select private or public  i am keeping it public
 
 Now lets check if a repositoryhas been created or not in our github(my folder name is FORVSCODE)
+
+
+but we got a problem here the repo is created on my name
+but commit messages are coming on another account name
+
+for that we need to config our git list via terminal
+
+
+now any commits I do will happen under my acc name
