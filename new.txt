@@ -12,3 +12,6 @@ since I don't have a repository i am initializing one
 once we have initialized we have a file in m y folder new.txt we need to push that file into the repository
 
 and the repository  name is your folder name
+
+
+Now lets check if a repositoryhas been created or not in our github(my folder name is FORVSCODE)
