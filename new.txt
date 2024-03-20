@@ -26,3 +26,7 @@ for that we need to config our git list via terminal
 
 
 now any commits I do will happen under my acc name
+
+we need to sync changes also
+
+thank you....
