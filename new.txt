@@ -1,0 +1,14 @@
+
+Hello guys now i will show you how to link our folder to github
+
+I am linking my folder to github
+
+if you don't have a repository you can initialize repository
+else you can publish directly
+
+since I don't have a repository i am initializing one
+
+
+once we have initialized we have a file in m y folder new.txt we need to push that file into the repository
+
+and the repository  name is your folder name
